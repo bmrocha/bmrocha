@@ -1,7 +1,6 @@
-## Olá! Sejam todos bem vindos, 👋 
-<br>
+## Sejam todos bem vindos,👋 
 
-### 🚀 Completamente apaixonado por tecnologia e inovação! 
+### 🚀 Sou completamente apaixonado por tecnologia e inovações! 
 <br>
 <div align="left">
 
@@ -12,8 +11,9 @@
   Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do profissional.
  Profissional com experiência na área de Tecnologia da Informação em empresas dos segmentos do Sistema Financeiro, Educação entre outros. Em equipe nos realizamos projetos, planejamos melhorias, realizamos instalações, configurações e administração de redes e de computadores, dimensionando requisitos de sistemas, avaliação de desempenhos e relacionando-os com os requisitos de segurança da informação.
 </p>
+  
 <p align="left">
- 💼 Ferramentas utilizadas para um desenvolvimento são:
+ 💼 Ferramentas que eu utilizo:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -46,7 +46,7 @@
 <!--
   <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=bmrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 -->
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-iago&layout=compact&langs_count=7&theme=dracula">
+  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bmrocha&layout=compact&langs_count=7&theme=dracula">
   </a>
 
 ##
@@ -61,7 +61,7 @@
   <br>
   <br>
   
- ## 👥 Links uteis para amantes dev do gabrielcmarinho/links-uteis:
+ ## 👥 Links úteis que utilizo do gabrielcmarinho:
   
  ### 🖼 Banco de imagens gratuitas
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
