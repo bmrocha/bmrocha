@@ -66,7 +66,7 @@
   <br>
   <br>
   
- ## 👥 Apresento a vocês a lista de links úteis que utilizo: 
+ ## 👥 Apresento a vocês lista de links úteis que utilizo: 
   
 - [🖼 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
 - [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
