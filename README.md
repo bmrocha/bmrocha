@@ -8,10 +8,10 @@
 
 
 <p align="left"> 
-  Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do     profissional.
-  Profissional com experiência na área de Tecnologia da Informação em empresas de vários segmentos sendo empresa ramo financeiro, área da educação entre outras. 
-  Sempre estou estudando e praticando para evoluir as minhas habilidades.
-  Meu emprego atual faço parte de uma equipe de ti onde nos realizamos alguns projetos, planejamos melhorias, realizamos instalações, suporte colaborador e parceiros,      configurações e administração de redes e servidores e de computadores, dimensionando requisitos de sistemas,  avaliação de desempenhos e relacionando-os com os requisitos de segurança da informação.
+Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do profissional.
+Profissional com experiência na área de Tecnologia da Informação em empresas de vários segmentos sendo empresa ramo financeiro, área da educação entre outras.
+Sempre estou estudando e praticando para evoluir as minhas habilidades.
+Meu emprego atual eu faço parte de uma equipe TOP de ti, onde realizamos alguns projetos, planejamos melhorias, realizamos instalações, suporte colaborador e parceiros, configurações e administração de redes e servidores e de computadores, dimensionando requisitos de sistemas, avaliação de desempenhos e relacionando-os com os requisitos de segurança da informação.
 </p>
   
 <p align="left">
@@ -29,17 +29,19 @@
   <div style="display: inline_block" align="left">
     <img align="center" alt="Bmrocha-Js"     height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Bmrocha-Type"   height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Bmrocha-Nodej"  height="60" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+    <img align="center" alt="Bmrocha-Nodej"  height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="Bmrocha-MySQL"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
     <img align="center" alt="Bmrocha-HTML"   height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Bmrocha-CSS"    height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Bmrocha-Sass"   height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img align="center" alt="Bmrocha-Docker" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-    <img align="center" alt="Bmrocha-Nginx"  height="60" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+    <img align="center" alt="Bmrocha-Docker" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+    <img align="center" alt="Bmrocha-Nginx"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
     <img align="center" alt="Bmrocha-MySQL"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Bmrocha-MySQL"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-    <img align="center" alt="Bmrocha-Python" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Bmrocha-Angula" height="50" width="65" src="https://angular.io/assets/images/logos/angular/angular.svg">
+    <img align="center" alt="Bmrocha-Python" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Bmrocha-Angula" height="40" width="65" src="https://angular.io/assets/images/logos/angular/angular.svg">
+    <img align="center" alt="Bmrocha-Laravel" height="25" width="40" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+    
   </div>
   
 ##
