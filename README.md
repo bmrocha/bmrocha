@@ -60,7 +60,7 @@
  </div>
   <br>
   
- ## 👥 Compartilho está lista link espero que gostem:
+ ## 👥 Compartilho com vocês esta lista do gabrielcmarinho/links-uteis :
   
  ### 🖼 Banco de imagens gratuitas
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
