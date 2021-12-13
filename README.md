@@ -4,8 +4,7 @@
 <br>
 <div align="left">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do profissional.
@@ -14,7 +13,7 @@
   
   Sempre estou estudando e praticando para evoluir as minhas habilidades.
   
-  Meu emprego atual faço parte de uma equipe de ti onde nos realizamos alguns projetos, planejamos melhorias, realizamos instalações, suporte colaborador e parceiros, configurações e administração de redes e servidores e de computadores, dimensionando requisitos de sistemas, avaliação de desempenhos e relacionando-os com os requisitos de segurança da informação.
+  Meu emprego atual faço parte de uma equipe de ti onde nos realizamos alguns projetos, planejamos melhorias, realizamos instalações, suporte colaborador e parceiros,      configurações e administração de redes e servidores e de computadores, dimensionando requisitos de sistemas,  avaliação de desempenhos e relacionando-os com os requisitos de segurança da informação.
 </p>
   
 <p align="left">
