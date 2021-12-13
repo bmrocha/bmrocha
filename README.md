@@ -1,4 +1,4 @@
-## Olá! Sou Bruno Rocha 👋 
+## Olá! Sejam todos bem vindos, 👋 
 <br>
 
 ### 🚀 Completamente apaixonado por tecnologia e inovação! 
@@ -59,8 +59,9 @@
   <a height="60" href="mailto:bmrocha7l@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
   <br>
+  <br>
   
- ## 👥 Compartilho com vocês esta lista do gabrielcmarinho/links-uteis :
+ ## 👥 Links uteis para amantes dev do gabrielcmarinho/links-uteis:
   
  ### 🖼 Banco de imagens gratuitas
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
