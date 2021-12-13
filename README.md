@@ -9,11 +9,8 @@
 
 <p align="left"> 
   Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do     profissional.
- 
   Profissional com experiência na área de Tecnologia da Informação em empresas de vários segmentos sendo empresa ramo financeiro, área da educação entre outras. 
-  
   Sempre estou estudando e praticando para evoluir as minhas habilidades.
-  
   Meu emprego atual faço parte de uma equipe de ti onde nos realizamos alguns projetos, planejamos melhorias, realizamos instalações, suporte colaborador e parceiros,      configurações e administração de redes e servidores e de computadores, dimensionando requisitos de sistemas,  avaliação de desempenhos e relacionando-os com os requisitos de segurança da informação.
 </p>
   
