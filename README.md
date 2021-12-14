@@ -66,7 +66,7 @@ Meu emprego atual eu faço parte de uma equipe TOP de ti, onde realizamos alguns
  </div>
   <br>
   
- ## 👥 Aproveitando e compartilhando conhecimentos segue lista dos melhores links DEV: 
+ ## 👥 Aproveitando compartilho com vocês esta lista dos melhores links para DEV: 
   
 - [🖼 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
 - [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
