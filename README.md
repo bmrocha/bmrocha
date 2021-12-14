@@ -87,5 +87,5 @@ Meu emprego atual eu faço parte de uma equipe TOP de ti, onde realizamos alguns
 - [🎙 Podcasts](#-podcasts)
 - [🏢 Business](#-business)
   
-## Para acesso ao conteúdo do menu acima clique em <a href="https://github.com/gabrielcmarinho/links-uteis">Gabriel Marinho</a>
+## Para ter acesso ao conteúdo do menu, CLIQUE <a href="https://github.com/gabrielcmarinho/links-uteis">Gabriel Marinho</a>
   
