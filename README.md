@@ -25,21 +25,21 @@ Meu emprego atual eu faço parte de uma equipe TOP de ti, onde realizamos alguns
 </p>
   
 ##
-#### 🧠  Para estudos constantes eu sigo esse padrões de aperfeiçoamento pessoal, sempre procurando me atualizar:<br>
+#### 🧠  Eu sigo meu padrões de estudos e aperfeiçoamento pessoal, sempre procurando me atualizar:
   <div style="display: inline_block" align="left">
     <img align="center" alt="Bmrocha-Js"     height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Bmrocha-Type"   height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="Bmrocha-Nodej"  height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Bmrocha-MySQL"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+    <img align="center" alt="Bmrocha-React"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+    <img align="center" alt="Bmrocha-Php"    height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="Bmrocha-Python" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Bmrocha-HTML"   height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Bmrocha-CSS"    height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Bmrocha-Sass"   height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" alt="Bmrocha-Docker" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
     <img align="center" alt="Bmrocha-Nginx"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
     <img align="center" alt="Bmrocha-MySQL"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Bmrocha-MySQL"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-    <img align="center" alt="Bmrocha-Python" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Bmrocha-Php" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="Bmrocha-Mongo"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
     <img align="center" alt="Bmrocha-Angula" height="50" width="65" src="https://angular.io/assets/images/logos/angular/angular.svg">
     <img align="center" alt="Bmrocha-Laravel" height="40" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
     
