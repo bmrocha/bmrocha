@@ -25,7 +25,7 @@ Meu emprego atual eu faço parte de uma equipe TOP de ti, onde realizamos alguns
 </p>
   
 ##
-#### 🧠  Eu sigo meu padrões de estudos e aperfeiçoamento pessoal, sempre procurando me atualizar:
+#### 🧠 Meu foco atualmente são:
   <div style="display: inline_block" align="left">
     <img align="center" alt="Bmrocha-Js"     height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Bmrocha-Type"   height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
