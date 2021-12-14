@@ -25,7 +25,7 @@ Meu emprego atual eu faço parte de uma equipe TOP de ti, onde realizamos alguns
 </p>
   
 ##
-#### 🧠 Meu foco atualmente são:
+#### 🧠 Meu foco atualmente são em:
   <div style="display: inline_block" align="left">
     <img align="center" alt="Bmrocha-Js"     height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Bmrocha-Type"   height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -65,9 +65,8 @@ Meu emprego atual eu faço parte de uma equipe TOP de ti, onde realizamos alguns
   <a height="60" href="mailto:bmrocha7l@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
   <br>
-  <br>
   
- ## 👥 Apresento a vocês lista de links úteis que utilizo: 
+ ## 👥 Aproveitando e compartilhando conhecimentos segue lista dos melhores links DEV: 
   
 - [🖼 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
 - [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
