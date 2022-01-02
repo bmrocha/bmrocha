@@ -46,17 +46,21 @@ Meu emprego atual eu faço parte de uma equipe TOP de ti, onde realizamos alguns
   </div>
   
 ##
-#### 👾 Linguagens mais usadas em meus repositórios: <br>
+#### 👾 Linguagens mais usadas em meus repositórios: </br>
   <a href="https://github.com/bmrocha">
-<!--
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=bmrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
--->
+
   <img height="200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bmrocha&layout=compact&langs_count=7&theme=dracula">
   </a>
+  
+  
+  <!--<img height="150em" src = "https://github-readme-stats.vercel.app/api?username=bmrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">-->
+
+  
 
 ##
 ### 💬 Me chame para bater um papo :)
   
+  </br>
   <div height="60" align="left">
     
   <a height="60" href="https://api.whatsapp.com/send?phone=5531984390045&text=Ol%C3%A1!%20vi%20seu%20contato%20github%20podemos%20conversar%20%3F"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
