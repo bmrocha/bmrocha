@@ -7,7 +7,8 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 
-<p align="left"> 
+<p align="left">
+<br>
 Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do profissional. ⬇️⬇️⬇️
                                                                          
 
@@ -31,7 +32,7 @@ Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios 
     
 </p>
   
-<p align="left">
+<p align="left"><br>
  💼 Para desenvolver algum projeto gosto de utilizar essas ferramentas:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
