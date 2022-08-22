@@ -107,5 +107,5 @@ Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios 
 - [🎙 Podcasts](#-podcasts)
 - [🏢 Business](#-business)
   
-## Para ter acesso ao conteúdo do menu, CLIQUE <a href="https://github.com/gabrielcmarinho/links-uteis">Gabriel Marinho</a>
+## Para ter acesso ao conteúdo do menu, CLIQUE AQUI NO <a href="https://github.com/gabrielcmarinho/links-uteis">Gabriel Marinho</a>
   
