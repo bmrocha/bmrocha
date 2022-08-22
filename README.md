@@ -15,9 +15,10 @@ Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios 
 
 🛡️Conhecimentos em: Segurança da Informação, Administração de Servidores e Redes, Implantação de Soluções opensource, CyberSecurity, LGPD, Firewall.
 
-🛡️Conhecimentos em Desenvolvimento: Conceitos de Sistemas, Infraestrutura, Lógica de Programação, Banco de Dados, Versionamento de Código, Desenvolvimento em Web, conhecimento em Docker e Kubernetes, Wordpress, Elementor, Canvas.
+🛡️Conhecimentos em Desenvolvimento: Conceitos de Sistemas, Infraestrutura, Lógica de Programação, Banco de Dados, 
+  Versionamento de Código, Desenvolvimento em Web, conhecimento em Docker e Kubernetes, Wordpress, Elementor, Canvas.
 
-🛡️Conhecimentos em: CSS3, HTML5, SASS, BOOTSTRAP, JAVASCRIPT, TYPESCRIPT, PHP, PYTHON, REACTJS, ANGULAR, LAVAREL, DJANGO, MVC, Código Limpos, TESTE DE SOFTWARES JEST E TESTING LIBRARY.
+🛡️Conhecimentos em: MVC, Código Limpos, TESTE DE SOFTWARES JEST E TESTING LIBRARY.
   
   
 🏅 Alguns sites de referências que utilizo na minha formação de conhecimentos:
