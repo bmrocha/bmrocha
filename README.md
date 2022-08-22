@@ -8,10 +8,27 @@
 
 
 <p align="left"> 
-Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do profissional.
-Profissional com experiência na área de Tecnologia da Informação em empresas de vários segmentos sendo empresa ramo financeiro, área da educação entre outras.
-Sempre estou estudando e praticando para evoluir as minhas habilidades.
-Meu emprego atual eu faço parte de uma equipe TOP de ti, onde realizamos alguns projetos, planejamos melhorias, realizamos instalações, suporte colaborador e parceiros, configurações e administração de redes e servidores e de computadores, dimensionando requisitos de sistemas, avaliação de desempenhos e relacionando-os com os requisitos de segurança da informação.
+Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do profissional. ⬇️⬇️⬇️
+                                                                         
+
+⚜️Profissional com mais de 10 anos de experiência na área de TI, segurança, infraestrutura, projetos, governança, proteção e privacidade de dados e na área de desenvolvimento web jr .
+
+🛡️Conhecimentos em: Segurança da Informação, Administração de Servidores e Redes, Implantação de Soluções opensource, CyberSecurity, LGPD, Firewall.
+
+🛡️Conhecimentos em Desenvolvimento: Conceitos de Sistemas, Infraestrutura, Lógica de Programação, Banco de Dados, Versionamento de Código, Desenvolvimento em Web, conhecimento em Docker e Kubernetes, Wordpress, Elementor, Canvas.
+
+🛡️Conhecimentos em: CSS3, HTML5, SASS, BOOTSTRAP, JAVASCRIPT, TYPESCRIPT, PHP, PYTHON, REACTJS, ANGULAR, LAVAREL, DJANGO, MVC, Código Limpos, TESTE DE SOFTWARES JEST E TESTING LIBRARY.
+  
+  
+🏅 Alguns sites de referências que utilizo na minha formação de conhecimentos:
+
+🧑🏽‍💻 https://henriquebastos.net/? | 🧑🏽‍💻 https://www.devaria.com.br | 🧑🏽‍💻 https://4linux.com.br | 
+🧑🏽‍💻 https://app.rocketseat.com.br | 🧑🏽‍💻 https://web.dio.me/home | 🧑🏽‍💻 https://cursos.dankicode.com | 
+🧑🏽‍💻 https://docs.microsoft.com/pt-br/learn/browse/  | 🧑🏽‍💻 https://desecsecurity.com/ |  
+🧑🏽‍💻https://www.udemy.com/ | 🧑🏽‍💻 https://jornadadodev.com.br/ e Grupo e Canais do Telegram
+
+🏆 Sempre me atualizando em Cursos, Palestras e Bootcamp, rumo a evolução profissional. 
+    
 </p>
   
 <p align="left">
