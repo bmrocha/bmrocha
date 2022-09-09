@@ -80,9 +80,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 
 > Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguintes maneiras:
 
-- Me siga no [Github](https://github.com/bmrocha)
-- Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/brunomartinsrocha/)
-- Faça uma doação pelo PIX: 31984390045
+- Criador arthurspk [Github](https://github.com/arthurspk)
 
 ## 💡 Nossa proposta
 
