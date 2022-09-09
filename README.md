@@ -95,6 +95,10 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - Abra Pull Requests com atualizações
 - Discuta ideias em Issues
 - Compartilhe o repositório com a sua comunidade
+-Acesse também -> https://github.com/bmrocha/guiadofrontend
+-Acesse também -> https://github.com/bmrocha/guiadobackend
+-Acesse também -> https://github.com/bmrocha/guiadevbrasil
+-Acesse também -> https://github.com/bmrocha/guiadeferramentas
 
 ## 📚 ÍNDICE
 
