@@ -24,7 +24,8 @@ Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios 
 
 🧑🏽‍💻 https://henriquebastos.net/? | 🧑🏽‍💻 https://www.devaria.com.br | 🧑🏽‍💻 https://4linux.com.br | 
 🧑🏽‍💻 https://app.rocketseat.com.br | 🧑🏽‍💻 https://web.dio.me/home | 🧑🏽‍💻 https://cursos.dankicode.com | 
-🧑🏽‍💻 https://docs.microsoft.com/pt-br/learn/browse/  | 🧑🏽‍💻 https://desecsecurity.com/ | 🧑🏽‍💻https://www.udemy.com/ | 🧑🏽‍💻 https://jornadadodev.com.br/ Tech Academy | Let's Code | Grupos Discord e Canais do Telegram.
+🧑🏽‍💻 https://docs.microsoft.com/pt-br/learn/browse/  | 🧑🏽‍💻 https://desecsecurity.com/ | 🧑🏽‍💻https://www.udemy.com/ | 
+🧑🏽‍💻 https://jornadadodev.com.br/ Tech Academy | Let's Code | Grupos Discord e Canais do Telegram.
 
 🏆 Sempre me atualizando em Cursos, Palestras e Bootcamp, rumo a evolução profissional. 
     
@@ -97,7 +98,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - Compartilhe o repositório com a sua comunidade
 - Acesse também -> https://github.com/bmrocha/guiadofrontend
 - Acesse também -> https://github.com/bmrocha/guiadobackend
-- Acesse também -> https://github.com/bmrocha/guiadevbrasil
 - Acesse também -> https://github.com/bmrocha/guiadeferramentas
 
 ## 📚 ÍNDICE
