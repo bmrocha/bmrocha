@@ -8,26 +8,53 @@
 <br>
 <p align="left">
 Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do profissional. ⬇️⬇️⬇️
-                                                                         
+ 
+⚜️Profissional com mais de 10 anos de experiência.
+ 
+🎯Tecnologia da Informação: 
 
-⚜️Profissional com mais de 10 anos de experiência na área de TI, segurança, infraestrutura, projetos, governança, proteção e privacidade de dados e na área de desenvolvimento web jr .
+Conhecimentos em Administração e Implantação de Servidores, soluções opensource, CyberSecurity, LGPD, Firewall, Mikrotik, Pabx IP, Wifi corporativa, Microsoft 365, Backup, Virtualização, AWS, monitoramento com Zabbix, e gerenciamento com Glpi.
+ 
+🎯Área de Desenvolvimento:
 
-🛡️Conhecimentos em: Segurança da Informação, Administração de Servidores e Redes, Implantação de Soluções opensource, CyberSecurity, LGPD, Firewall.
+Experiência em soluções de OpenSource;
+Conhecimentos em Sistemas embarcados e Sistema Operacional Linux;
+Conhecimentos WEB ( HTML, CSS, SASS, NodeJs, ReactJs, Vue.js, Javascript, TypeScript, PHP7, jQuery, 
+ Bootstrap 4/5, Wordpress, Framework);
+Conhecimentos em Python utilizando Django/Flask;
+Conhecimentos em da Arquitetura MVT e MVC;
+Conhecimentos em consumo de API ( ex: REST);
+Conhecimentos em Micros serviços e arquitetura orientada a eventos;
+Conhecimentos em Bancos de Dados Relacionais e Não Relacionais; 
+Conhecimentos em controle de versionamento com Git;
+Conhecimentos em testes automatizados;
+Conhecimentos em CI/CD;
+Conhecimentos em Conteinerização (Docker, Kubernetes);
+Conhecimentos em Monitoramento (Grafana, Kibana, Datadog);
+Conhecimentos em metodologias ágeis como Scrum e Kanban;
+Conhecimentos em Serverless AWS lambda ou Azure;
+Conhecimentos em Automação (Selenium, Pyautogui, Pandas, Request);
 
-🛡️Conhecimentos em Desenvolvimento: Conceitos de Sistemas, Infraestrutura, Lógica de Programação, Banco de Dados, 
-  Versionamento de Código, Desenvolvimento em Web, conhecimento em Docker e Kubernetes, Wordpress, Elementor, Canvas.
+✨ Alguns sites de referências que utilizo na minha formação de conhecimentos ✨
 
-🛡️Conhecimentos em: MVC, Código Limpos, TESTE DE SOFTWARES JEST E TESTING LIBRARY.
-  
-  
-🏅 Alguns sites de referências que utilizo na minha formação de conhecimentos:
+🧑🏽‍💻 https://www.startse.com/ 
+🧑🏽‍💻 https://henriquebastos.net/ 
+🧑🏽‍💻 https://www.devaria.com.br 
+🧑🏽‍💻https://www.hashtagtreinamentos.com/curso-python
+🧑🏽‍💻 https://4linux.com.br 
+🧑🏽‍💻 https://app.rocketseat.com.br
+🧑🏽‍💻 https://web.dio.me/home 
+🧑🏽‍💻 https://docs.microsoft.com/pt-br/learn/browse/ 
+🧑🏽‍💻 https://desecsecurity.com/ 
 
-🧑🏽‍💻 https://henriquebastos.net/? | 🧑🏽‍💻 https://www.devaria.com.br | 🧑🏽‍💻 https://4linux.com.br | 
-🧑🏽‍💻 https://app.rocketseat.com.br | 🧑🏽‍💻 https://web.dio.me/home | 🧑🏽‍💻 https://cursos.dankicode.com | 
-🧑🏽‍💻 https://docs.microsoft.com/pt-br/learn/browse/  | 🧑🏽‍💻 https://desecsecurity.com/ | 🧑🏽‍💻https://www.udemy.com/ | 
-🧑🏽‍💻 https://jornadadodev.com.br/ Tech Academy | Let's Code | Grupos Discord e Canais do Telegram.
+⚠️" Quem entra no mundo da tecnologia sabe que não pode parar de estudar, seja pra aprender algo novo ou para atualizar-se."
 
-🏆 Sempre me atualizando em Cursos, Palestras e Bootcamp, rumo a evolução profissional. 
+ Estou à disposição para uma conversa, adoro desafio e muito obrigado! 
+
+ 💬Contato: (31) 9 8439-0045
+ ⌚️ Horário flexível
+ 📩 GitHub https://github.com/bmrocha/ 
+ 📩 https://gitlab.com/bmrocha7l 
     
 </p>
   
@@ -77,28 +104,6 @@ Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios 
 
 Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenvolvedor ou se especializar em qualquer área de TI. Caso você já atue como desenvolvedor ou em outra área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, caminhos possíveis e as tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em front-end, back-end, dentre outras. 
 
-## ⚠️ Aviso importante
-
-> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguintes maneiras:
-
-- Criador arthurspk [Github](https://github.com/arthurspk)
-
-## 💡 Nossa proposta
-
-> A proposta deste guia é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual será o seu próximo aprendizado, sem influenciar você a seguir os 'hypes' e 'trends' do momento. Acreditamos que com um maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas. E lembre-se, 'hypes' e 'trends' nem sempre são as melhores opções.
-
-## :beginner: Para quem está começando agora
-
-> Não se assuste com a quantidade de conteúdo apresentado neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e ficar fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
-
-## 🚨 Colabore
-
-- Abra Pull Requests com atualizações
-- Discuta ideias em Issues
-- Compartilhe o repositório com a sua comunidade
-- Acesse também -> https://github.com/bmrocha/guiadofrontend
-- Acesse também -> https://github.com/bmrocha/guiadobackend
-- Acesse também -> https://github.com/bmrocha/guiadeferramentas
 
 ## 📚 ÍNDICE
 
