@@ -17,44 +17,44 @@ Conhecimentos em Administração e Implantação de Servidores, soluções opens
  
 🎯Área de Desenvolvimento:
 
-Experiência em soluções de OpenSource;
-Conhecimentos em Sistemas embarcados e Sistema Operacional Linux;
-Conhecimentos WEB ( HTML, CSS, SASS, NodeJs, ReactJs, Vue.js, Javascript, TypeScript, PHP7, jQuery, 
- Bootstrap 4/5, Wordpress, Framework);
-Conhecimentos em Python utilizando Django/Flask;
-Conhecimentos em da Arquitetura MVT e MVC;
-Conhecimentos em consumo de API ( ex: REST);
-Conhecimentos em Micros serviços e arquitetura orientada a eventos;
-Conhecimentos em Bancos de Dados Relacionais e Não Relacionais; 
-Conhecimentos em controle de versionamento com Git;
-Conhecimentos em testes automatizados;
-Conhecimentos em CI/CD;
-Conhecimentos em Conteinerização (Docker, Kubernetes);
-Conhecimentos em Monitoramento (Grafana, Kibana, Datadog);
-Conhecimentos em metodologias ágeis como Scrum e Kanban;
-Conhecimentos em Serverless AWS lambda ou Azure;
-Conhecimentos em Automação (Selenium, Pyautogui, Pandas, Request);
+Experiência em soluções de OpenSource;<br>
+Conhecimentos em Sistemas embarcados e Sistema Operacional Linux;<br>
+Conhecimentos WEB ( HTML, CSS, SASS, NodeJs, ReactJs, Vue.js, Javascript, TypeScript, PHP7, jQuery, <br>
+ Bootstrap 4/5, Wordpress, Framework);<br>
+Conhecimentos em Python utilizando Django/Flask;<br>
+Conhecimentos em da Arquitetura MVT e MVC;<br>
+Conhecimentos em consumo de API ( ex: REST);<br>
+Conhecimentos em Micros serviços e arquitetura orientada a eventos;<br>
+Conhecimentos em Bancos de Dados Relacionais e Não Relacionais;<br> 
+Conhecimentos em controle de versionamento com Git;<br>
+Conhecimentos em testes automatizados;<br>
+Conhecimentos em CI/CD;<br>
+Conhecimentos em Conteinerização (Docker, Kubernetes);<br>
+Conhecimentos em Monitoramento (Grafana, Kibana, Datadog);<br>
+Conhecimentos em metodologias ágeis como Scrum e Kanban;<br>
+Conhecimentos em Serverless AWS lambda ou Azure;<br>
+Conhecimentos em Automação (Selenium, Pyautogui, Pandas, Request);<br>
 
 ✨ Alguns sites de referências que utilizo na minha formação de conhecimentos ✨
 
-🧑🏽‍💻 https://www.startse.com/ 
-🧑🏽‍💻 https://henriquebastos.net/ 
-🧑🏽‍💻 https://www.devaria.com.br 
-🧑🏽‍💻https://www.hashtagtreinamentos.com/curso-python
-🧑🏽‍💻 https://4linux.com.br 
-🧑🏽‍💻 https://app.rocketseat.com.br
-🧑🏽‍💻 https://web.dio.me/home 
-🧑🏽‍💻 https://docs.microsoft.com/pt-br/learn/browse/ 
-🧑🏽‍💻 https://desecsecurity.com/ 
+🧑🏽‍💻 https://www.startse.com/ <br>
+🧑🏽‍💻 https://henriquebastos.net/ <br>
+🧑🏽‍💻 https://www.devaria.com.br <br>
+🧑🏽‍💻https://www.hashtagtreinamentos.com/curso-python<br>
+🧑🏽‍💻 https://4linux.com.br <br>
+🧑🏽‍💻 https://app.rocketseat.com.br<br>
+🧑🏽‍💻 https://web.dio.me/home <br>
+🧑🏽‍💻 https://docs.microsoft.com/pt-br/learn/browse/ <br>
+🧑🏽‍💻 https://desecsecurity.com/ <br>
 
 ⚠️" Quem entra no mundo da tecnologia sabe que não pode parar de estudar, seja pra aprender algo novo ou para atualizar-se."
 
  Estou à disposição para uma conversa, adoro desafio e muito obrigado! 
 
- 💬Contato: (31) 9 8439-0045
- ⌚️ Horário flexível
- 📩 GitHub https://github.com/bmrocha/ 
- 📩 https://gitlab.com/bmrocha7l 
+ 💬Contato: (31) 9 8439-0045<br>
+ ⌚️ Horário flexível<br>
+ 📩 GitHub https://github.com/bmrocha/ <br>
+ 📩 https://gitlab.com/bmrocha7l <br>
     
 </p>
   
