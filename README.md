@@ -1,6 +1,6 @@
 ## Olá, Tudo bem?,👋 
 
-### 🚀 Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa onde me sinta bem e possa aplicar minhas habilidades e conhecimentos de forma plena.! 
+### Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa onde me sinta bem e possa aplicar minhas habilidades e conhecimentos de forma plena.! 
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
@@ -9,7 +9,7 @@
 <p align="left">
 Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do profissional.
  
-⚜️Profissional.
+⚜️Desenvolvedor Python, tenho experiência prática em programação Python, desenvolvendo de aplicações robustas e eficientes. Procurando oportunidades para contribuir com projetos inovadores e ampliar minhas habilidades técnicas.
  
 ⚠️" Quem entra no mundo da tecnologia sabe que não pode parar de estudar, seja pra aprender algo novo ou para atualizar-se."
 
