@@ -4,7 +4,7 @@
 ### Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa onde me sinta bem e possa aplicar minhas habilidades e conhecimentos de forma plena.! 
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="200px" align="right" alt="Computador iuriCode">
 
 <br>
 <p align="left">
