@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&pause=2000&color=F7AF1D&center=verdadeiro&vCenter=falso&width=800&height=80&lines=Ol%C3%A1!+Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&pause=2000&color=F7AF1D&center=verdadeiro&vCenter=falso&width=800&height=80&lines=Ol%C3%A1!+Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a> 
 </div>
 ### Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa onde me sinta bem e possa aplicar minhas habilidades e conhecimentos de forma plena.! 
 
