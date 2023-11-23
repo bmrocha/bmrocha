@@ -7,9 +7,10 @@
 
 <br>
 <p align="left">
-Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do profissional. ⬇️⬇️⬇️
+Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do profissional.
  
-⚜️Profissional com mais de 10 anos de experiência.
+⚜️Profissional
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>.
  
 ⚠️" Quem entra no mundo da tecnologia sabe que não pode parar de estudar, seja pra aprender algo novo ou para atualizar-se."
 
