@@ -34,7 +34,7 @@
 </p>-->
   
 ##
-#### 🧠 Meu foco atualmente são em:
+#### 🧠 Tecnologias que utilizo são:
   <div style="display: inline_block" align="left">
     <img align="center" alt="Bmrocha-Python" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Bmrocha-Django" height="40" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
