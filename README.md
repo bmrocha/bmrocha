@@ -46,7 +46,7 @@ Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios 
     <img align="center" alt="Bmrocha-Nodej"  height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Bmrocha-React"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
     <img align="center" alt="Bmrocha-Angula" height="50" width="65" src="https://angular.io/assets/images/logos/angular/angular.svg">
-    <img align="center" alt="Bmrocha-Laravel" height="40" width="65" src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+    <img align="center" alt="Bmrocha-Django" height="40" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
     
   </div>
   
