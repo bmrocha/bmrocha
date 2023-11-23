@@ -9,7 +9,7 @@
 <p align="left">
 Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do profissional.
  
-⚜️Desenvolvedor Python, tenho experiência prática em programação Python, desenvolvendo de aplicações robustas e eficientes. Procurando oportunidades para contribuir com projetos inovadores e ampliar minhas habilidades técnicas.
+⚜️Como desenvolvedor em Python, pretendo ter mais experiência na prática em programação tempo integral, desenvolvendo aplicações robustas e eficientes. Procurando oportunidades para contribuir com projetos inovadores e ampliar minhas habilidades técnicas.
  
 ⚠️" Quem entra no mundo da tecnologia sabe que não pode parar de estudar, seja pra aprender algo novo ou para atualizar-se."
 
