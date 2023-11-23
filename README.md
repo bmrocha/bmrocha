@@ -19,7 +19,6 @@ Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios 
  ⌚️ Horário flexível<br>
     
 </p>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
   
 <p align="left"><br>
  💼 Para desenvolver algum projeto gosto de utilizar essas ferramentas:
