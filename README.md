@@ -1,4 +1,4 @@
-# Olá, Tudo bem?,👋 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&pause=2000&color=F7AF1D&center=verdadeiro&vCenter=falso&width=800&height=80&lines=Ol%C3%A1!+Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a> 
 
 ### Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa onde me sinta bem e possa aplicar minhas habilidades e conhecimentos de forma plena.! 
 
@@ -7,7 +7,9 @@
 
 <br>
 <p align="left">
-Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do profissional.
+⚜️Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios e vontade de vencer, são algumas das características que compõem meu perfil do profissional.
+
+⚜️Sou um estudante Full Stack apaixonado por tecnologias, aprender coisas novas, resolver problemas, automatizar coisas, fazer amizades e desenvolver Apps , Software , Websites e mais um pouco.
  
 ⚜️Como desenvolvedor em Python, pretendo ter mais experiência na prática em programação tempo integral, desenvolvendo aplicações robustas e eficientes. Procurando oportunidades para contribuir com projetos inovadores e ampliar minhas habilidades técnicas.
  
