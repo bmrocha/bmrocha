@@ -42,6 +42,9 @@
     <img align="center" alt="Bmrocha-HTML"   height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Bmrocha-CSS"    height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Bmrocha-Sass"   height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img alt="AMAZON AWS" alt="Bmrocha-Amazon"   height="40" width="65" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img alt="GOOGLE-CLOUD" alt="Bmrocha-Cloud"   height="40" width="65" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+    <img alt="AZURE" alt="Bmrocha-Azure"   height="40" width="65" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
     <img align="center" alt="Bmrocha-Docker" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
     <img align="center" alt="Bmrocha-Nginx"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
     <img align="center" alt="Bmrocha-MySQL"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
