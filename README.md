@@ -34,6 +34,7 @@ Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios 
 #### 🧠 Meu foco atualmente são em:
   <div style="display: inline_block" align="left">
     <img align="center" alt="Bmrocha-Python" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Bmrocha-Django" height="40" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
     <img align="center" alt="Bmrocha-HTML"   height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Bmrocha-CSS"    height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Bmrocha-Sass"   height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
@@ -46,7 +47,7 @@ Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios 
     <img align="center" alt="Bmrocha-Nodej"  height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Bmrocha-React"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
     <img align="center" alt="Bmrocha-Angula" height="50" width="65" src="https://angular.io/assets/images/logos/angular/angular.svg">
-    <img align="center" alt="Bmrocha-Django" height="40" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+    
     
   </div>
   
