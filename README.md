@@ -20,7 +20,7 @@ Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios 
     
 </p>
   
-<p align="left"><br>
+<!--<p align="left"><br>
  💼 Para desenvolver algum projeto gosto de utilizar essas ferramentas:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -28,7 +28,7 @@ Atitude, foco, paixão, orientação para trabalhar em equipe, gosto a desafios 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-</p>
+</p>-->
   
 ##
 #### 🧠 Meu foco atualmente são em:
